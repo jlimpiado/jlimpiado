@@ -23,4 +23,4 @@ FB PROFILE: [Joshua Barcial Limpiado](https://www.facebook.com/josh.limpiado)
 
 Linkedin: [Joshua Limpiado](https://www.linkedin.com/in/joshua-limpiado-2000/)
 
-Gmail: [d3vlimpiado@gmail.com](mailto:d3vlimpiado@gmail.com)
+Gmail: [jianlimpiado@gmail.com](mailto:jianlimpiado@gmail.com)
