@@ -2,16 +2,19 @@
 
 👋 Hi there! I am **Joshua B. Limpiado**.
 
-College student at Polytechnic University of the Philippines, Institute of Technology.
+Graduate student of the Polytechnic University of the Philippines, Institute of Technology.
+In pursuit at discovering and acquiring the necessary *skill* and *knowledge* in **Web Development**. At the same time, gain experience to further develop my communication skills specially in a team and working environment. 
 
-In pursuit at discovering and acquiring the necessary *skill* and *knowledge* in **Web Development**.
-
-Current known and used Techs:
+Current known and used Programming languages/libraries or Technologies:
 - ReactJS
-- HTML4
-- CSS3 [SCSS]
+- HTML
+- CSS [SCSS]
 - JAVASCRIPT ES6
-
+Others:
+- Java
+- Php
+- MySQL
+- PostgreSQL
 <hr>
 
 WEBSITE: [JL WEB](https://d3vlimpiado.netlify.app/)
