@@ -10,7 +10,9 @@ Current known and used Programming languages/libraries or Technologies:
 - HTML
 - CSS [SCSS]
 - JAVASCRIPT ES6
+
 Others:
+- Typescript
 - Java
 - Php
 - MySQL
