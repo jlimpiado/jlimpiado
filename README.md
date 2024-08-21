@@ -21,8 +21,6 @@ Others:
 
 WEBSITE: [JL WEB](https://d3vlimpiado.netlify.app/)
 
-FB PROFILE: [Joshua Barcial Limpiado](https://www.facebook.com/josh.limpiado)
-
 Linkedin: [Joshua Limpiado](https://www.linkedin.com/in/joshua-limpiado-2000/)
 
-Gmail: [jianlimpiado@gmail.com](mailto:jianlimpiado@gmail.com)
+Gmail: [jblimpiado@gmail.com](mailto:jblimpiado@gmail.com)
