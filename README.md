@@ -1,4 +1,4 @@
-# D3VLIMPIADO
+# JLIMPIADO
 
 👋 Hi there! I am **Joshua B. Limpiado**.
 
