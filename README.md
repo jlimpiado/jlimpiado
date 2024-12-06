@@ -10,16 +10,19 @@ Current known and used Programming languages/libraries or Technologies:
 - HTML
 - CSS [SCSS]
 - JAVASCRIPT ES6
-
-Others:
 - Typescript
-- Java
+- TailwindCSS
+- NodeJS
+- ExpressJS
+
+Others: Side studies
 - Php
 - MySQL
-- PostgreSQL
+- VueJS
+- Golang
 <hr>
 
-WEBSITE: [JL WEB](https://d3vlimpiado.netlify.app/)
+WEBSITE: [JL WEB](https://jlimpiado-v1.vercel.app/)
 
 Linkedin: [Joshua Limpiado](https://www.linkedin.com/in/joshua-limpiado-2000/)
 
